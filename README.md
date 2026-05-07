@@ -7,6 +7,7 @@ This project was built for the AHMC AI Fullstack Engineer take-home exercise. Th
 ## Live Demo
 
 Frontend: https://ahmc-clinical-note-tool.vercel.app
+
 Backend health check: https://ahmc-clinical-note-tool.onrender.com/api/health  
 
 ## Features
